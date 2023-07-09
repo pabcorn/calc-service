@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pabcorn/calc-service/issues"
   },
-  "homepage": "https://github.com/pabcorn/calc-service#readme"
+  "homepage": "https://github.com/pabcorn/calc-service#readme",
+  "dependencies": {
+    "hapi": "^17.8.5"
+  }
 }
